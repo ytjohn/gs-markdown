@@ -3,13 +3,15 @@ gs-markdown
 
 GetSimple CMS Markdown Plugin - a plugin to enable use of Markdown and Markdown Extra in GetSimple CMS.
 
-[GetSimple CMS][gs](http://get-simple.info/) is a very simple, but powerful CMS. Targeted towards smaller sites (1 - 15 pages), it is also extensible with plugins to be useful as a blogging system as well.
+[GetSimple CMS][gs] is a very simple, but powerful CMS. Targeted towards smaller sites (1 - 15 pages), it is also extensible with plugins to be useful as a blogging system as well.
+
+[gs]: http://get-simple.conf/ "Get Simple"
 
 [Markdown][md] and [Mardown Extra][mde] allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). Markdown was developed to be a human-readable syntax, suitable for plain-text emails. It is used by many applications, including github, stack overflow, and reddit. It is also offered as an option in many other programs. 
 
-[md] http://daringfireball.net/projects/markdown/ "Daring Fireball Markdown"
-[php-md] http://michelf.ca/projects/php-markdown/ "PHP Markdown"
-[mde] http://michelf.ca/projects/php-markdown/extra/ "Markdown Extra"
+[md]: http://daringfireball.net/projects/markdown/ "Daring Fireball Markdown"
+[php-md]: http://michelf.ca/projects/php-markdown/ "PHP Markdown"
+[mde]: http://michelf.ca/projects/php-markdown/extra/ "Markdown Extra"
 
 Integrating Markdown into GetSimple was proven to be rather easy, done with two lines of code by [Zegnat](http://get-simple.info/forum/topic/592/markdown-for-getsimple/).
 
